@@ -498,7 +498,10 @@ a:focus {
 }
 
 .about_section .img-box img {
-  max-width: 50%;
+  /* max-width: 50%; */
+  aspect-ratio: 16 / 9; /* Width to height ratio */  
+  width: 300px; /* Adjusts width as needed */  
+  height: auto; /* Maintains proportion */
 }
 
 .about_section .detail-box h3 {
