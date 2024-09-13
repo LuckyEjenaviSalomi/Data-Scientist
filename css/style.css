@@ -498,7 +498,7 @@ a:focus {
 }
 
 .about_section .img-box img {
-  max-width: 100%;
+  max-width: 50%;
 }
 
 .about_section .detail-box h3 {
