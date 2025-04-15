@@ -37,6 +37,18 @@ const projects = [
   },
 
   {
+    title: "City of Melbourne Housing Analysis ✅",
+    description: "Analyzed housing data to identify trends and provide insights for urban planning.",
+    link: "ML Projects/Foundation in Data Science/City of Melbourne/City_of_Melbourne_ExploratoryDataAnalysis.html"
+  },
+
+  {
+    title: "Cardio Good Fitness SLR Model ✅",
+    description: "Developed a simple linear regression model to predict cardio fitness levels based on various features.",
+    link: "ML Projects/Foundation in Data Science/Cardio Good Fitness/Notebook_CardioGood_Fitness_Data_Analysis.html"
+  },
+
+  {
     title: "Power BI Dashboard for Audit Performance",
     description: "Built interactive visual dashboards to visualize audit performance metrics and trends.",
     link: "audit_performance.html"
