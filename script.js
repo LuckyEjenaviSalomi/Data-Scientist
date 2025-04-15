@@ -7,9 +7,9 @@ const projects = [
   },
 
   {
-    title: "Recommendation System for E-commerce",
+    title: "Recommendation System for E-commerce ✅",
     description: "Developed a recommendation system using collaborative filtering to enhance user experience.",
-    link: "#"
+    link: "ML Projects/3. Lucky_Salomi_Recommendation_Systems_Learner_Notebook_Full_Code.html"
   },
 
   {
@@ -22,6 +22,18 @@ const projects = [
     title: "Customer Segmentation with K-Means",
     description: "Analyzed customer data to build marketing personas using clustering techniques.",
     link: "#"
+  },
+
+  {
+    title: "Potential Customers Prediction ✅",
+    description: "Analyzed customer data to build marketing personas using clustering techniques.",
+    link: "ML Projects/2. Potential-Customers-Prediction.html"
+  },
+
+  {
+    title: "FoodHub Data ✅",
+    description: "Analyzed sales data for a food delivery service to identify trends and improve marketing strategies.",
+    link: "ML Projects/Foundation in Data Science/FDS Analysis/FoodHub Data Analysis.html"
   },
 
   {
