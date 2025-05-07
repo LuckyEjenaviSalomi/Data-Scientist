@@ -4,13 +4,13 @@ const projects = [
   {
     title: "Sales Forecasting with Machine Learning",
     description: "Used Python, pandas, and scikit-learn to forecast future sales for an FMCG company.",
-    link: "SalesForecasting_ML.html"
+    link: "Projects/SalesForecasting_ML.html"
   },
 
   {
     title: "Recommendation System for E-commerce ✅",
     description: "Developed a recommendation system using collaborative filtering to enhance user experience.",
-    link: "ML Projects/3. Lucky_Salomi_Recommendation_Systems_Learner_Notebook_Full_Code.html"
+    link: "Projects/3. Lucky_Salomi_Recommendation_Systems_Learner_Notebook_Full_Code.html"
   },
 
   {
@@ -28,25 +28,25 @@ const projects = [
   {
     title: "Potential Customers Prediction ✅",
     description: "Analyzed customer data to build marketing personas using clustering techniques.",
-    link: "ML Projects/2. Potential-Customers-Prediction.html"
+    link: "Projects/2. Potential-Customers-Prediction.html"
   },
 
   {
     title: "FoodHub Data ✅",
     description: "Analyzed sales data for a food delivery service to identify trends and improve marketing strategies.",
-    link: "ML Projects/Foundation in Data Science/FDS Analysis/FoodHub Data Analysis.html"
+    link: "Projects/Foundation in Data Science/FDS Analysis/FoodHub Data Analysis.html"
   },
 
   {
     title: "City of Melbourne Housing Analysis ✅",
     description: "Analyzed housing data to identify trends and provide insights for urban planning.",
-    link: "ML Projects/Foundation in Data Science/City of Melbourne/City_of_Melbourne_ExploratoryDataAnalysis.html"
+    link: "Projects/Foundation in Data Science/City of Melbourne/City_of_Melbourne_ExploratoryDataAnalysis.html"
   },
 
   {
     title: "Cardio Good Fitness SLR Model ✅",
     description: "Developed a simple linear regression model to predict cardio fitness levels based on various features.",
-    link: "ML Projects/Foundation in Data Science/Cardio Good Fitness/Notebook_CardioGood_Fitness_Data_Analysis.html"
+    link: "Projects/Foundation in Data Science/Cardio Good Fitness/Notebook_CardioGood_Fitness_Data_Analysis.html"
   },
 
   {

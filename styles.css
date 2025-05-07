@@ -39,14 +39,28 @@ header {
 
 #hero {
   background-color: #eaf4ff;
-  padding: 4rem 2rem;
+  padding: 0.5rem 0.5rem;
   text-align: center;
 }
 
+
 .hero-content h2 {
   font-size: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
+
+/* Projects */
+#hero-projects {
+  background-color: #eaf4ff;
+  padding: 0.05rem 0.05rem;
+  text-align: center;
+}
+
+.hero-content-projects h2 {
+  font-size: 1rem;
+  margin-bottom: 0.2rem;
+}
+/* ==================== */
 
 .projects {
   padding: 2rem;

@@ -1,34 +1,34 @@
 // JavaScript code to dynamically generate project cards and implement scroll animations
 const projects = [
   {
-    title: "Machine Learning and AI",
+    title: "A collection of Re-usable functions, Models, Designs, and Templates",
     description: "A compedium of my ML and AI projects",
-    link: "ML and AI/ML_index.html"
+    link: "https://github.com/LuckyEjenaviSalomi/Microsoft-Excel"
   },
 
   {
-    title: "Data Visualization",
+    title: "Excel Data Visualization",
     description: "A compelling glossary of my data storytelling visuals",
     link: "#"
   },
 
-  {
-    title: "Microsoft Excel",
-    description: "A peep into my Excel Mastery",
-    link: "#"
-  },
+  // {
+  //   title: "Microsoft Excel",
+  //   description: "A peep into my Excel Mastery",
+  //   link: "#"
+  // },
 
-  {
-    title: "Python Programming",
-    description: "Python is interesting",
-    link: "#"
-  },
+  // {
+  //   title: "Python Programming",
+  //   description: "Python is interesting",
+  //   link: "#"
+  // },
  
-  {
-    title: "My YouTube Videos",
-    description: "My nascent YouTube video playlist",
-    link: "#"
-  },
+  // {
+  //   title: "My YouTube Videos",
+  //   description: "My nascent YouTube video playlist",
+  //   link: "#"
+  // },
 
   // {
   //   title: "Sales Forecasting with Machine Learning",

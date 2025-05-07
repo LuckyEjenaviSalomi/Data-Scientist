@@ -3,31 +3,32 @@ const projects = [
   {
     title: "Machine Learning and AI",
     description: "A compedium of my ML and AI projects",
-    link: "ML and AI/ML_index.html"
+    // link: "Projects/ ML and AI/ML_index.html"
+    link: "Projects/ML and AI/ML_index.html"
   },
 
   {
-    title: "Data Visualization",
+    title: "BI and Data Visualization",
     description: "A compelling glossary of my data storytelling visuals",
-    link: "Visualization Projects/visualization_index.html"
+    link: "Projects/BI & Visualization Projects/visualization_index.html"
   },
 
   {
     title: "Spreadsheets",
     description: "A peep into my Excel Mastery",
-    link: "Spreadsheets/Spreadsheet_index.html"
+    link: "Projects/Spreadsheets/Spreadsheet_index.html"
   },
 
   {
     title: "Python Programming",
     description: "Python is interesting",
-    link: "Python/python_index.html"
+    link: "Projects/Python/python_index.html"
   },
  
   {
     title: "My YouTube Videos",
     description: "My nascent YouTube video playlist",
-    link: "YouTube Videos/YouTube_index.html"
+    link: "Projects/YouTube Videos/YouTube_index.html"
   },
 
   // {
