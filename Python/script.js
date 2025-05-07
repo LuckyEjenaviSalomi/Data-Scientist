@@ -9,25 +9,25 @@ const projects = [
   {
     title: "Data Visualization",
     description: "A compelling glossary of my data storytelling visuals",
-    link: "Visualization Projects/visualization_index.html"
+    link: "#"
   },
 
   {
-    title: "Spreadsheets",
+    title: "Microsoft Excel",
     description: "A peep into my Excel Mastery",
-    link: "Spreadsheets/Spreadsheet_index.html"
+    link: "#"
   },
 
   {
     title: "Python Programming",
     description: "Python is interesting",
-    link: "Python/python_index.html"
+    link: "#"
   },
  
   {
     title: "My YouTube Videos",
     description: "My nascent YouTube video playlist",
-    link: "YouTube Videos/YouTube_index.html"
+    link: "#"
   },
 
   // {
