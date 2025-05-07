@@ -5,7 +5,12 @@ const projects = [
     description: "Reusable functions written in Data Mashup language. Useful for data extraction, transformation and loading in Power BI.",
     link: "https://github.com/LuckyEjenaviSalomi/Microsoft-Power-Query"
   },
-
+  
+  {
+    title: "Power BI Reusable functions and designs",
+    description: "Reusable functions and designs for Power BI. Useful for data extraction, transformation and loading in Power BI.",
+    link: "https://github.com/LuckyEjenaviSalomi/Power-BI"
+  },
 
   {
     title: "Power BI Report for Audit Performance",
@@ -29,6 +34,12 @@ const projects = [
     title: "Power BI Dashboard for Headcount Analysis",
     description: "Developed a Power BI dashboard to analyze headcount trends, Pareto Analysis of Grade levels.",
     link: "Projects/staff_headcount_analytics.html"
+  },
+
+  {
+    title: "Budget Analytics Dashboard",
+    description: "Created a Power BI dashboard to analyze budget vs actuals, variance analysis, and trend analysis.",
+    link: "Projects/Budget Analytics.html"
   },
 
   {
